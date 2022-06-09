@@ -1,5 +1,11 @@
 # CreditCardValidations
 
+=====
+
+No longer used, please use: https://github.com/SynergyDataSystems/PatriotSoftware.CreditCard
+
+=====
+
 [![Build Status](http://img.shields.io/travis/Fivell/credit_card_validations.svg)](https://travis-ci.org/Fivell/credit_card_validations)
 [![Dependency Status](http://img.shields.io/gemnasium/Fivell/credit_card_validations.svg)](https://gemnasium.com/Fivell/credit_card_validations)
 [![Coverage Status](http://img.shields.io/coveralls/Fivell/credit_card_validations.svg)](https://coveralls.io/r/Fivell/credit_card_validations)
